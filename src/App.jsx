@@ -11,6 +11,10 @@ class App extends Component {
           <div>15 minutes</div>
           <div>20 seconds</div>
         </div>
+        <div>
+          <input placeholder="new date" />
+          <button>Submit</button>
+        </div>
       </div>
     );
   }
